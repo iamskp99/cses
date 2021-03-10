@@ -1,2 +1,2 @@
 # cses
-This repo contains solutions of cses problem set in python.
+This repo contains my solutions of cses problem set in python and c++.
